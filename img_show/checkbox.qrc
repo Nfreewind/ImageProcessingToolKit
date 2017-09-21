@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>gou.PNG</file>
+        <file>background.png</file>
+        <file>open_disn.png</file>
+        <file>open_n.png</file>
+        <file>open_p.png</file>
+        <file>ps_disn.png</file>
+        <file>ps_h.png</file>
+        <file>ps_n.png</file>
+        <file>ps_p.png</file>
+        <file>save_disn.png</file>
+        <file>save_n.png</file>
+        <file>save_p.png</file>
+        <file>label2_bg.png</file>
+        <file>label1_bg.png</file>
+        <file>play.png</file>
+        <file>play_p.png</file>
+        <file>xgou.PNG</file>
+        <file>open_nor.png</file>
+        <file>open_press.png</file>
+        <file>proc_forbid.png</file>
+        <file>proc_nor.png</file>
+        <file>proc_press.png</file>
+        <file>save_forbid.png</file>
+        <file>save_nor.png</file>
+        <file>save_press.png</file>
+    </qresource>
+</RCC>
